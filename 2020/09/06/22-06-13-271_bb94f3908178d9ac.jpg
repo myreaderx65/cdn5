@@ -1,0 +1,1097 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="typepad-standard" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<!-- head-common -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="generator" content="http://www.typepad.com/" />
+	
+	<meta name="description" content="Tatsuhiko Miyagawa's blog to discuss mostly tech and nerdy stuff." />
+    <link rel="canonical" href="https://bulknews.typepad.com/blog/" />
+
+
+
+        <link rel="stylesheet" href="https://bulknews.typepad.com/blog/styles.css?v=6" type="text/css" media="screen" />
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/print.css" type="text/css" media="print" />
+
+<link rel="stylesheet" href="https://static.typepad.com/.shared/css/featherlight-gallery.css">
+
+<!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+	<link rel="alternate" type="application/atom+xml" title="Posts on 'bulknews.typepad.com' (Atom)" href="https://bulknews.typepad.com/blog/atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'bulknews.typepad.com' (RSS 1.0)" href="https://bulknews.typepad.com/blog/index.rdf" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'bulknews.typepad.com' (RSS 2.0)" href="https://bulknews.typepad.com/blog/rss.xml" />
+	<script type="text/javascript">
+		var TPApp = {};
+		TPApp.app_uri = "https://www.typepad.com/";
+	</script>
+	<script type="text/javascript" src="https://static.typepad.com/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js,/js/app/flyouts-min.js"></script>
+
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00d8345206d069e200d8341cb54a53ef');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+
+<meta property="og:title" content="bulknews.typepad.com" />
+<meta property="og:site_name" content="bulknews.typepad.com" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://bulknews.typepad.com/blog/" />
+<meta property="og:description" content="Tatsuhiko Miyagawa's blog to discuss mostly tech and nerdy stuff." />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="https://up0.typepad.com/6a00d8345206d069e200e5500f9af38834-220si" />
+
+
+
+	<title>bulknews.typepad.com</title>
+	<link rel="openid.server" href="https://www.typepad.com/services/openid/server" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.typepad.com/services/rsd/6a00d8345206d069e200d8341cb54a53ef" />
+			<link rel="meta" type="application/rdf+xml" title="FOAF" href="https://bulknews.typepad.com/foaf.rdf" />
+	
+        
+</head>
+
+
+<body class="layout-two-column-left-mb">
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+    FB.init( { apiKey: 'a279adbe87e2b3c505e777af99a5260d', xfbml: true, version: 'v2.8' } );
+};
+( function() {
+    var e = document.createElement( 'script' ); e.async = true;
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/sdk.js';
+    document.getElementById( 'fb-root' ).appendChild( e );
+} )();
+</script>
+
+	
+	<div id="container">
+	    <div id="wrapper">
+		<div id="container-inner">
+			
+			<!-- banner -->
+<div id="banner">
+	<div id="banner-inner" class="pkg">
+		
+		<h1 id="banner-header"><a href="https://bulknews.typepad.com/blog/" accesskey="1">bulknews.typepad.com</a></h1>
+		<h2 id="banner-description">
+			Tatsuhiko Miyagawa's blog to discuss mostly tech and nerdy stuff.
+		</h2>
+		<div id="banner-screen"></div>
+	</div>
+	<div id="banner-bg"><a href="https://bulknews.typepad.com/blog/" accesskey="1">Home</a></div>
+</div>
+
+<div id="nav">
+	<div id="nav-inner">
+		<ul class="nav-list pkg">
+			<li class="nav-list-item"><a href="https://bulknews.typepad.com/blog/">Home</a></li>
+			<li class="nav-list-item"><a href="https://bulknews.typepad.com/blog/archives.html">Archives</a></li>
+			<li class="nav-list-item"><a href="http://profile.typepad.com/miyagawa">Profile</a></li>
+			<li class="last-nav-list-item nav-list-item"><a href="https://bulknews.typepad.com/blog/atom.xml">Subscribe</a></li>
+		</ul>
+	</div>
+</div>
+
+
+			<div id="pagebody">
+				<div id="pagebody-inner">
+					<div id="alpha">
+						<div id="alpha-inner">
+							<!-- entry list sticky -->
+
+
+		<h2 class="date-header">2011.11.30</h2>
+	
+	<div class="entry-author-miyagawa entry-has-title entry-type-post entry" id="entry-6a00d8345206d069e20162fd27fd84970d">
+					<h3 class="entry-header"><a href="https://bulknews.typepad.com/blog/2011/11/one-blog.html">One Blog.</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p>OK, I just rebooted my&#0160;<a href="http://weblog.bulknews.net/" target="_self">Japanese blog</a>&#0160;and only a few days later now, it just feels stupid to maintain two blogs, just for the sake of separating English and Japanese audience.</p>
+<p>There&#39;s Google Translate if you like to read my thoughts in whichever language, and the blog posts will mostly be a short link blog posts so there won&#39;t be a huge barrier, and I will post in whichever appropriate language considering which audience will be interested, and maybe in both when I feel necessary.</p>
+<p>That&#39;s still easier than maintaining two blogs, and because I will feed the updates into Twitter, Facebook and Google+ updates, separating the audience won&#39;t make sense anyway!</p>
+<p>Anyway, subscribe to <a href="http://feeds.bulknews.net/bulknews" target="_self">my new feed</a>&#0160;and you&#39;ll see more posts showing up there.</p>
+			</div>
+			
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://bulknews.typepad.com/blog/2011/11/one-blog.html">Nov 30, 2011 7:06:54 PM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://bulknews.typepad.com/blog/2011/11/one-blog.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                
+    		    <li><a href="https://bulknews.typepad.com/blog/2011/11/one-blog.html#comments" class="entry-footer-comment">Comment <span>4</span></a></li>
+                
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8345206d069e20162fd27fd84970d'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">2011.11.28</h2>
+	
+	<div class="entry-author-miyagawa entry-has-title entry-type-post entry" id="entry-6a00d8345206d069e20154378ca4bb970c">
+					<h3 class="entry-header"><a href="https://bulknews.typepad.com/blog/2011/11/my-new-japanese-blog-weblogbulknewsnet.html">My new Japanese blog (weblog.bulknews.net)</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<a href="http://weblog.bulknews.net/">weblog.bulknews.net</a>
+
+<p>I just revived my Japanese blog, which has more than 10K subscribers on livedoor/Google but has been abandoned for more than 2 years. It&#39;s now up on Tumblr.</p>
+
+<p>I&#39;ve always been a fan of TypePad, which I am proud of having worked on at Six Apart/SAY, but for this particular blog, it just strikes me that Tumblr is easier to customize and do some wacky things like inserting Ads. (I also considered github&#39;s Jeckyl as well, since it does the ultimate flexibility in doing crazy things :-))</p>
+
+<p>Anyway, Japanese posts will go there, but I keep blogging in English here, so no worries.</p>
+			</div>
+			
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://bulknews.typepad.com/blog/2011/11/my-new-japanese-blog-weblogbulknewsnet.html">Nov 28, 2011 7:00:39 PM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://bulknews.typepad.com/blog/2011/11/my-new-japanese-blog-weblogbulknewsnet.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                
+    		    <li><a href="https://bulknews.typepad.com/blog/2011/11/my-new-japanese-blog-weblogbulknewsnet.html#comments" class="entry-footer-comment">Comment <span>0</span></a></li>
+                
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8345206d069e20154378ca4bb970c'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">2011.11.21</h2>
+	
+	<div class="entry-author-miyagawa entry-has-title entry-type-post entry" id="entry-6a00d8345206d069e20153935e6441970b">
+					<h3 class="entry-header"><a href="https://bulknews.typepad.com/blog/2011/11/read-later-apps-on-kindle.html">Read Later apps on Kindle</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p>I&#39;ve been toying with Read Later applications on Kindle Touch and am trying to find the best tools out there. It is sad to tell you that none of the applications score perfect.&#0160;</p>
+<p>Here&#39;s the complete list of things I want for read later apps:</p>
+<ul>
+<li>Can add articles on Chrome with a keyboard shortcut, <em>not</em> clicking bookmarklets</li>
+<li>Can add articles from Google Reader with a keyboard shortcut</li>
+<li>Can add articles from iOS apps like Echofon and Flipboard</li>
+<li>Can add artciels from Android with &quot;Share URL&quot; intent</li>
+<li>Deliver unread articles to my Kindle every day, on preferrably configurable time</li>
+<li>Kindle version should support chapters for each page</li>
+<li>Kindle version should support inline images</li>
+</ul>
+<p><a href="https://readitlaterlist.com/" target="_self">Read It Later</a>&#0160;scores almost perfect on the adding articles side. The bookmarklet works with keyboard shortcut using&#0160;<a href="https://chrome.google.com/webstore/detail/dfkgmijjfojgckgmmmmenmbkmpekejjm" target="_self">Chromac</a>&#0160;extension, and keyboard shortcut with Google Reader using&#0160;<a href="http://shalom.craimer.org/projects/orbviousinterest/" target="_self">Obvious Interest</a>, supported by Echofon and Flipboard. Android Share intent works nice because it uses &quot;A&quot; with &quot;Add to Read It Later&quot;, and share intent is sorted by alphabet - it&#39;s a nice hack.</p>
+<p>Read It Later does not support sending articles to Kindle, so I did <a href="https://github.com/miyagawa/rilfeed" target="_self">some hack using RSS subscription</a> on Google Reader to send it to <a href="http://www.klip.me/" target="_self">Klip.me</a>. It works mostly well, except that neither Read It Later API nor Klip.me document supports inline images. Also, Klip.me does not display URL nor author of the page until the very end of the article, which is a bit annoying when reading a summary list.</p>
+<p><a href="https://www.instapaper.com/" target="_self">Instapaper</a>&#0160;is also pretty good on the adding side, but for some reason I could not get the bookmarklet to work with keyboard shortcuts. That means I always have to move the mouse over there and click the bookmarklet, which is annoying. However&#0160;<a href="https://chrome.google.com/webstore/detail/fldildgghjoohccppflaohodcnmlacpb" target="_self">Instachrome</a>&#0160;extension seems to work and allows configuring keyboard shortcuts.&#0160;It is good that the bookmarklet natively supports Google Reader (currently selected items are automatically detected), and lots of iOS apps support Instapaper and there&#39;s a Share intent app available on Android, although it&#39;s mediocre.</p>
+<p>Kindle documents generated by Instapaper do not seem to support images either, but it looks sligthly better than the one created by Klip.me. I could use&#0160;<a href="http://instascriber.com/" target="_self">Instascriber</a>&#0160;to synchronize my Read It Later items over to Instapaper automatically, although it probably means i have to manage unread items in two places.</p>
+<p><a href="http://www.readability.com/" target="_self">Readability</a>&#0160;has a nice Chrome extension that supports keyboard shortcuts. I can&#39;t yet see Google Reader integration that works with keyboards and iOS apps support is a bit weak since its subscription service is new. The Kindle documents sent by Readability look the best out of three, and <em>seems</em> to avoid the&#0160;<a href="https://www.amazon.com/forum/kindle/ref=cm_cd_ttp_ef_tft_tp?_encoding=UTF8&amp;cdForum=Fx1D7SY3BVSESG&amp;cdThread=Tx3I7WBZM6T2ZKY" target="_self">Kindle Software bug</a>&#0160;that you can&#39;t archive items on the device.</p>
+<p>So far, I&#39;m trying to move over to Instapaper, but that requires me to fiddle with lots of input channels to be updated.</p>
+<p><strong>UPDATE: </strong>I completely switched to Instapaper. The reading app on iPad is much better than that of ReadItLater. The Kindle reading experience is nice but it also doesn&#39;t support inline images, and there&#39;s the other Kindle software bug (maybe) that does not recognize the beginning of the book correctly. It always opens the first page of <em>the last </em>chapter, instead of the first, when I first open the book or select &quot;Beginning&quot; from Go to menu.</p>
+<p><strong>UPDATE 2:&#0160;</strong><a href="https://twitter.com/#!/instapaper/status/138799690476036098" target="_self">Instapaper officially recognizes</a>&#0160;that there&#39;s a software bug in Kindle Touch that it has some issues with Instapaper generated Kindle docs.</p>
+<p>Today I switched to Readability&#39;s Premium plan since <a href="http://blog.readability.com/2011/11/reading-needs-a-platform-introducing-the-new-readability/" target="_self">I support their idea of giving back the revenue to the publishers</a>. (Wow I switch apps like every day now) The problem with Readability is it&#39;s lack of universal &quot;Add to...&quot; support on iOS and Android applications. And also there&#39;s no keyboard shortcut to add from Google Reader. To solve this, I set up two&#0160;<a href="https://ifttt.com/" target="_self">ifttt</a>&#0160;tasks, to import from&#0160;<a href="https://ifttt.com/recipes/73" target="_self">Google Reader starred items</a>&#0160;and&#0160;<a href="https://ifttt.com/recipes/77" target="_self">Instapaper personalized RSS</a>. So now I just star items on Google Reader, and keep adding articles to Instapaper from Android and iOS apps, and ifttt takes care of syncing articles to Readability, and it now sends me the documents to my Kindle every day.</p>
+			</div>
+			
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://bulknews.typepad.com/blog/2011/11/read-later-apps-on-kindle.html">Nov 21, 2011 12:08:18 PM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://bulknews.typepad.com/blog/2011/11/read-later-apps-on-kindle.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                
+    		    <li><a href="https://bulknews.typepad.com/blog/2011/11/read-later-apps-on-kindle.html#comments" class="entry-footer-comment">Comment <span>1</span></a></li>
+                
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8345206d069e20153935e6441970b'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">2011.11.17</h2>
+	
+	<div class="entry-author-miyagawa entry-has-title entry-type-post entry" id="entry-6a00d8345206d069e20154370700f9970c">
+					<h3 class="entry-header"><a href="https://bulknews.typepad.com/blog/2011/11/kindle-touch.html">Kindle Touch</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p>So the next day of <a href="https://bulknews.typepad.com/blog/2011/11/kindle-fire-review.html" target="_self">Kindle Fire delivery</a>, I got Kindle Touch delivered.</p>
+<p>tl;dr - I like it.</p>
+<p>Unlike Kindle Fire, it is a single-purpose device that does one things: reading an ebook (and personal documents and all that).</p>
+<p><a href="https://www.flickr.com/photos/bulknews/6352481304/" title="P1060028.JPG by miyagawa, on Flickr"><img alt="P1060028.JPG" height="334" src="https://farm7.static.flickr.com/6050/6352481304_a55ab59569.jpg" width="500" /></a></p>
+<h2>Hardware</h2>
+<p><a href="https://www.flickr.com/photos/bulknews/6352454418/" title="P1060026.JPG by miyagawa, on Flickr"><img alt="P1060026.JPG" height="334" src="https://farm7.static.flickr.com/6240/6352454418_ce6aececdf.jpg" width="500" /></a></p>
+<p>The hardware is pretty light and easy to hold. Because it is a touch interface that accepts taps to go through pages, it is possible (not <em>that </em>easy though) &#0160;to hold it in one-hand and turn pages. It would be great for people who want to read in a train while standing (not me :D). It also supports swiping left and right turn pages.</p>
+<p>Speaking of swipe, you can swipe up and down to go to previous/enxt chapters, which is handy when reading articles and newspapers I think.</p>
+<h2>Touchscreen</h2>
+<p>I was a bit curious about the performance of touch screen of e-Ink. It works reasonably well. Because I haven&#39;t had any other Kindle devices I can&#39;t compare, but to me it is responsive enough. Ability to select a word to lookup on built-in dictionary and highlight for notes is something you&#39;ll greatly miss if you have a non-Touch Kindle, in which case you have to use D-Pad to select words.</p>
+<p><a href="https://www.flickr.com/photos/bulknews/6351740389/" title="P1060030.JPG by miyagawa, on Flickr"><img alt="P1060030.JPG" height="334" src="https://farm7.static.flickr.com/6060/6351740389_726e4a8a96.jpg" width="500" /></a></p>
+<h2>Cut and scanned PDFs</h2>
+<p>Because Kindle hasn&#39;t launched in Japan yet, it is still popular to create your own eBooks using a cut-and-scan technique. I have a bunch of these PDFs, and sending them to this Kindle doesn&#39;t really make a readable experience. You have to optimize the PDF bu cutting surrounding spaces, and make it a monochrome rather than grayscale, etc.&#0160;</p>
+<p><a href="https://dl.dropbox.com/u/135035/Screenshots/0ss-.png" style="display: inline;"><img alt="image from dl.dropbox.com" border="0" class="asset  asset-image at-xid-6a00d8345206d069e20162fc88e1b5970d image-full" src="https://bulknews.typepad.com/.a/6a00d8345206d069e20162fc88e1b5970d-800wi" title="image from dl.dropbox.com" /></a><br /><br /></p>
+<p>I scanned most of the books I had in Japan by <a href="http://www.bookscan.co.jp/" target="_self">BookSCAN</a>, and they have a service to optimize the PDFs for various Kindle devices. I tried that, and it makes somewhat readable PDF, but it still hurts my eyes. Can&#39;t wait for the launch of Amazon.co.jp Kindle store!</p>
+<h2>Read Later</h2>
+<p>This has little to do with the new Kindle Touch, but because this is my first real Kindle device, I toyed with a little bit about Reading apps, sending articles to Kindle automatically.</p>
+<p>There are many, many applications available in this field: <a href="https://www.instapaper.com/" target="_self">InstaPaper</a>, <a href="https://readitlaterlist.com/" target="_self">Read It Later</a> and now <a href="http://www.readability.com/" target="_self">Readability</a> and <a href="https://www.evernote.com/about/download/clearly.php" target="_self">Evernote</a>.</p>
+<p>For my iPad and Android reading app, I&#39;ve been using Read It Later - because Instapaper doesn&#39;t have a decent Android apps (well, <a href="https://www.quora.com/Whats-the-best-client-for-Instapaper-on-Android-phones" target="_self">there are many third party apps</a>, but none of the ones I tried matched what I liked and wanted to use).&#0160;</p>
+<p>But Read It Later doesn&#39;t support Kindle output, <a href="https://readitlaterlist.com/blog/2010/02/read-your-list-on-your-kindleebook-reader-with-calibre/" target="_self">at least not natively</a>.</p>
+<p>I&#39;ve searched through alternatives to find out something that supports Kindle, but because I already integrate RIL to my browsers and <a href="https://chrome.google.com/webstore/detail/bkikpncfbjndhfkipijhdoddiadaipaa" target="_self">Google Reader shortcut extensions</a>, i don&#39;t like to change all of them. The options I have is to sync the RIL to some other services. Yeah, all of this feels a lot like <a href="http://plagger.org/trac" target="_self">Plagger</a> or Pipes recipes now :)</p>
+<p>I ended up <a href="http://www.klip.me/" target="_self">Klip.me</a>. It supports adding via bookmarklet and browser extensions much like RIL, but also supports fetching feeds from Google Reader. The generated articles have chapters for each web page, and works perfect on my Kindle.</p>
+<p>So what should I do? I should just convert ReadItLater unread articles as a fulltext RSS feed, then subscribe to it on my Google Reader, and then tell Klip.me to fetch that from my Google Reader (with a special folder for Klip.me).</p>
+<p><a href="https://dl.dropbox.com/u/135035/Screenshots/xh61.png" style="display: inline;"><img alt="image from dl.dropbox.com" border="0" class="asset  asset-image at-xid-6a00d8345206d069e20162fc88f88d970d image-full" src="https://bulknews.typepad.com/.a/6a00d8345206d069e20162fc88f88d970d-800wi" title="image from dl.dropbox.com" /></a><br /><br /></p>
+<p>First i tried <a href="https://read-it-later-rss.heroku.com/" target="_self">ReadItLater feed app</a>, but it doesn&#39;t generate a fulltext feed for me, so I created <a href="https://github.com/miyagawa/rilfeed" target="_self">my own little app</a> that does it, and host it on dotcloud.</p>
+<p>It worked. Beautifully. I get all the unread articles on ReadItLater on my Kindle, automatically delivered once a day. Hooray.</p>
+<h2>Conclusion</h2>
+<p>Overall I&#39;m pretty happy with Kindle Touch. It is reponsive, easy to use in one-hand, and ability to use touchscreen to turn pages and select words is super.&#0160;</p>
+			</div>
+			
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://bulknews.typepad.com/blog/2011/11/kindle-touch.html">Nov 17, 2011 3:04:40 PM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://bulknews.typepad.com/blog/2011/11/kindle-touch.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                
+    		    <li><a href="https://bulknews.typepad.com/blog/2011/11/kindle-touch.html#comments" class="entry-footer-comment">Comment <span>0</span></a></li>
+                
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8345206d069e20154370700f9970c'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">2011.11.16</h2>
+	
+	<div class="entry-author-miyagawa entry-has-title entry-type-post entry" id="entry-6a00d8345206d069e20162fc7e22c7970d">
+					<h3 class="entry-header"><a href="https://bulknews.typepad.com/blog/2011/11/cpan-dependencies-are-more-fun-to-manage-than-ever.html">CPAN dependencies are more fun to manage than ever</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p>At&nbsp;<a href="http://conferences.yapceurope.org/lpw2011/" target="_self">London Perl Workshop 2011</a>&nbsp;there were many talks about CPAN modules and dependencies.&nbsp;</p>
+<p>When people talk about "CPAN dependencies", it usually used to come with the phrase "Hell". Not anymore. Everybody talked about more fun things to do with CPAN dependencies, which is probably inspired by the toolchain updates and my own&nbsp;<a href="http://search.cpan.org/dist/App-cpanminus" target="_self">cpanminus</a>.</p>
+<p>Especially at lightning talks, Tim Bunce explained&nbsp;<a href="http://blog.timbunce.org/2011/11/16/whats-actually-installed-in-that-perl-library/" target="_self">his dist-surveyor</a>&nbsp;tool that scans the whole library path and queries metacpan to figure out which distributions you have to need, when you migrate perl to a newer version. It also rebuilds the CPAN mirror structure you can then feed into cpanm's --mirror option (like Carton does).</p>
+<p>JJ introduced his own&nbsp;<a href="http://search.cpan.org/~jonallen/App-cpackage-1.00/" target="_self">cpackage</a>&nbsp;module, which is <em>extremely </em>similar to what we do in carton or <a href="http://search.cpan.org/dist/OrePAN/" target="_self">OrePAN</a>&nbsp;do, i.e. rebuilds the mirror index based on the archives you downloaded with cpanminus, and then bundle cpanm itself into a self-contained perl script you can execute on a remote server.</p>
+<p><a href="http://search.cpan.org/~penfold/" target="_self">Penfold</a>&nbsp;gave a quick tour for "best practice" of getting your own Perl with <a href="http://perlbrew.pl/" target="_self">perlbrew</a>, install modules with cpanm and deploy with carton.</p>
+<p>In addition to all of this, I presented the proposal on&nbsp;<a href="https://github.com/miyagawa/cpanfile" target="_self">cpanfile</a>, which is an extracted version of Module::Install's DSL to represent <a href="http://search.cpan.org/perldoc?CPAN::Meta::Prereqs" target="_self">CPAN::Meta::Prereqs</a>. This is still a proposal, but it will be trivial to implement on upcoming cpanm and Carton releases, and this would make declaring and managing CPAN dependencies in your Perl application much easier.</p>
+<script src="https://speakerdeck.com/embed/4ec2d6fa58dfef0051002260.js"></script>
+			</div>
+			
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://bulknews.typepad.com/blog/2011/11/cpan-dependencies-are-more-fun-to-manage-than-ever.html">Nov 16, 2011 6:24:13 PM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://bulknews.typepad.com/blog/2011/11/cpan-dependencies-are-more-fun-to-manage-than-ever.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                
+    		    <li><a href="https://bulknews.typepad.com/blog/2011/11/cpan-dependencies-are-more-fun-to-manage-than-ever.html#comments" class="entry-footer-comment">Comment <span>1</span></a></li>
+                
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8345206d069e20162fc7e22c7970d'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">2011.11.15</h2>
+	
+	<div class="entry-author-miyagawa entry-has-title entry-type-post entry" id="entry-6a00d8345206d069e20162fc7495b7970d">
+					<h3 class="entry-header"><a href="https://bulknews.typepad.com/blog/2011/11/kindle-fire-review.html">Kindle Fire Review</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p>I was originally thinking of skipping Kindle Fire because I'm happy with the original iPad, but when I visited my parents back in October, Dad said he was considering of buying an Android tablet. I thought it was a terrible idea, given the lineup of available options of shitty Android tablets in the market. I offered to give him my original iPad, but he wanted something lighter, like 7 inch. That made me buy this Kindle Fire, hoping this could be an actually "usable" Android tablet for him.</p>
+
+<p>The gadget arrived earlier today, and I played with it for 2 hours now. Here's my review.</p>
+
+<p>(tl;dr - go to the Conclusion in the bottom :D)</p>
+
+<h3>Hardware</h3>
+
+<p><a style="display: inline;" href="https://bulknews.typepad.com/.a/6a00d8345206d069e20162fc74c180970d-pi"><img class="asset  asset-image at-xid-6a00d8345206d069e20162fc74c180970d image-full" alt="P1060015" title="P1060015" src="https://bulknews.typepad.com/.a/6a00d8345206d069e20162fc74c180970d-800wi" border="0" /></a></p>
+
+<p>As a 7 inch tablet, I was expecting something light. It is definitely lighter than iPad, but it is yet over 400g, and it feels heavy. I can carry it in one hand with no issues, but reading or watching something on the device with holding in one hand is definitely a torture.</p>
+
+<p><a style="display: inline;" href="https://bulknews.typepad.com/.a/6a00d8345206d069e2015436f2c594970c-pi"><img class="asset  asset-image at-xid-6a00d8345206d069e2015436f2c594970c image-full" alt="P1060018" title="P1060018" src="https://bulknews.typepad.com/.a/6a00d8345206d069e2015436f2c594970c-800wi" border="0" /></a><br /></p>
+
+<p>It comes with a wall-to-micro-USB plug, and no standard USB-microUSB, which I can't understand why.</p>
+
+<p><a style="display: inline;" href="https://bulknews.typepad.com/.a/6a00d8345206d069e2015436f2c69f970c-pi"><img class="asset  asset-image at-xid-6a00d8345206d069e2015436f2c69f970c image-full" alt="P1060017" title="P1060017" src="https://bulknews.typepad.com/.a/6a00d8345206d069e2015436f2c69f970c-800wi" border="0" /></a><br /></p>
+
+<p>There's only one button - power button. And there's no volume up/down or an orientation lock hardware button. It is easy to access them from any apps using the power widget on the right top navigation bar (or some video/music apps display them inside the app), but hardware keys for these functions would be greatly missed.</p>
+
+<p>The power button itself is hard to locate and touch. Actually, it is hard to push when I need to wake up the device, yet is easy enough to accidentally push when reading a book.</p>
+
+<p>The size is a bit wide for my one hand to hold, yet narrow for two hands to hold. I know I'm a bit biased and unfair when the original iPad I use always wears the Apple soft case.</p>
+
+<h3>Unboxing</h3>
+
+<p>Unboxing experience is pretty smooth. Like other Kindle devices, Fire is already pre-configured with your account. I just selected Wi-Fi SSID and entered WiFi password, and then it recognizes as my account, and started downloading the software update. Once it is done, it's preloaded with bunch of books I purchased on Kindle, and some apps I purchased through Amazon appstore and Amazon MP3 (see below). The whole out of the box experience is pretty good.</p>
+
+<h3>OS</h3>
+
+<p><a style="display: inline;" href="https://bulknews.typepad.com/.a/6a00d8345206d069e20153931f8d21970b-pi"><img class="asset  asset-image at-xid-6a00d8345206d069e20153931f8d21970b image-full" alt="P1060022" title="P1060022" src="https://bulknews.typepad.com/.a/6a00d8345206d069e20153931f8d21970b-800wi" border="0" /></a><br /></p>
+
+<p>Kindle Fire is based on Android OS. As a heavy Android user (using 2.3 Gingerbread OS with MIUI custom ROM on a rooted phone), it gives a mixed feeling from "Yeah this is how Android works" to "Where is the screen for this and that?".</p>
+
+<p>It feels clever that notifications bar now has two modes, one for notifications (left top) and power widget (right top), but could take a while to get used to.</p>
+
+<p>The usual Android's Home/Search/Menu/Back capacitive buttons are gone, and they show up depending on the app's state, and for some fullscreen apps you have to tap the bottom key (the shape of "^") to pop up the menu.</p>
+
+<p>Some Android apps tend to "hide" advanced menus under the menu key, which this new button UI would be really confusing for, though I guess that's common for the stock Android OS as well once they remove these capacitive buttons and go software button only in ICS 4.0.</p>
+
+<p>There are some tweaks in the OS itself - for example, the configuration to turn off WiFi when screen goes off is enabled by default, and I can't yet find a screen to disable it. Amazon probably doesn't want to give users a control on this, and for the most use case of this device, such as Video, Music, Games and Books, the screen should be always on, and yet Amazon wants to give this device a better battery life when not used. Otherwise, Android's battery won't get as long as iPad when WiFi is on.</p>
+
+<p>While charging, there's no actual sign of percentage of the battery. You have to go to the power notification, click "More", and then "Device" to see the battery percentage. It is ridiculous.</p>
+
+<p>The OS crashed once for me, once I applied the software update and tried to remove "IMDB" from favorites tab. It was a sudden death, and screen went black, fiddling with power button did not do anything. The solution was to long hold the power key for so long, like 20 seconds, and then leave it and push again. First, the crash was bad, but second, this recovery process was really confusing.</p>
+
+<h3>Performance</h3>
+
+<p>I haven't much experienced the lag or slowness that I usually have with Android phones or tablets. The screen scrolls pretty fast and rendering on reading apps and videos are really smooth. With the help of server side rendering with Silk (see below), i see almost no issues with performance on this device.</p>
+
+<h3>Video</h3>
+
+<p>I am a Amazon Prime customer and now can access lots of streaming video content. It works really well, the streaming quality is pretty good and the screen is beautiful. Yet, without a stand it would be a torture to watch a 2 hour movie on this device.</p>
+
+<p>Other video apps like Netflix and Hulu Plus can be downloaded from Amazon appstore for free, and they work really well as well.</p>
+
+<h3>Reading</h3>
+
+<p>Reading books on Kindle Fire is exactly like reading on iPad. It is not e-Ink, so it might not be the best for your eyes, but the reading app is snappy and dictionary works pretty well.</p>
+
+<p>When I compare the original iPad and Fire side by side, Fire's screen and resolution looks slightly better.</p>
+
+<h3>Music</h3>
+
+<p>I buy music from time to time on iTunes and Amazon MP3 but these days almost converted to use Rdio for streaming. I only briefly tested Amazon MP3 Cloud Drive thing when it was out, and have almost no music in there. Google Music and iTunes match aren't perfect either, but Amazon MP3 uploader still leaves a lot to improve, including its complicated checkout process and confusing pricing model.</p>
+
+<p>Pandora and Rdio music app are available on Appstore for free again, and they work really well. It is interesting though that the built-in Music app has a play/pause button in the power notification bar (right top) but other music app tends to have "Ongoing" notifications in the notifications area (left top).</p>
+
+<h3>Documents</h3>
+
+<p>As requested by my Japanese friends, I tried to copy some scanned PDF files, one for manga and another for paperback novel scans. Manga PDF file looked okay, while a novel PDF looked really horrible. It may probably be because the file was just scanned in a low-res format, and I haven't applied any optimization for Kindle.</p>
+
+<p>Later I found out that Adobe Reader app on appstore can display the same PDF in much more readable way. Adobe probably has a much better PDF browsing functionality than Kindle's own software.</p>
+
+<h3>Photos</h3>
+
+<p>Remembering that my dad wanted to use the tablet to browse his photos, Kindle Fire's pictures functionality is so poor. It has the same-old Android stock Gallery app, which can only see photos stored in the device. Given that the device doesn't have a camera, it sounds like a joke. It also doesn't support Amazon Cloud Drive's Pictures folder - I uploaded some jpeg files to the folder via web browser(!), and nothing shows up.</p>
+
+<p>There may be third party apps that supports viewing Picasa or Flickr albums.</p>
+
+<h3>Silk</h3>
+
+<p>I haven't fully tested Silk enough to review its functionality, but the browsing experience looked fast - much faster than the original iPad, and most javascript enabled sites work without any issues. </p>
+
+<h3>Other apps</h3>
+
+<p>"Contacts" app looks like a joke.</p>
+
+<p>"Facebook" app is just a bookmark for the website, and opens in Silk browser.</p>
+
+<h3>Japanese support</h3>
+
+<p>Obviously the device can display Japanese web pages, but because it uses the Android's stock CJK fonts, some characters are unified with Chinese version of the glyph, and it looks weird.</p>
+
+<p>You can't input Japanese texts with the stock Kindle keyboard. You have to install third party IME from the market. I haven't even tried it yet, and am not sure how the OS allows it.</p>
+
+<h2>Third party apps</h2>
+
+<p>Third party apps are available through Amazon appstore. It allows side-loading applications (.apks), so if you're geek enough to root your phone and extract .apks out there, you can probably install more apps that are not available on Amazon store.</p>
+
+<p>Because this is an Android software that isn't authorized by Google, it doesn't come with Google Auth Framework. It means most apps that requires the framework doesn't just work, even if you install the APKs.</p>
+
+<h2>Conclusion</h2>
+
+<p>Just as this device is designed, Kindle Fire is best to consume media provided by Amazon, especially on demand videos, books and music through Amazon app store. the 16-9 screen makes a perfect fit for video apps including netflix and Hulu.</p>
+
+<p>In my opinion the device is still better than most of Android tablets out there in the market, and $199 price tag can't be beaten so easily - yet, it is far, far behind iPad, even the original iPad.</p>
+
+<p>I will see if my Dad still likes to try it out, but given the lack of integrated Photo browsing experience and Japanese input support, he will probably not like it, in which case I will return it.</p>
+
+<p>Kindle Touch, just for reading books, will arrive tomorrow :)</p>
+
+			</div>
+			
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://bulknews.typepad.com/blog/2011/11/kindle-fire-review.html">Nov 15, 2011 11:14:41 PM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://bulknews.typepad.com/blog/2011/11/kindle-fire-review.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                
+    		    <li><a href="https://bulknews.typepad.com/blog/2011/11/kindle-fire-review.html#comments" class="entry-footer-comment">Comment <span>5</span></a></li>
+                
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8345206d069e20162fc7495b7970d'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">2011.11.07</h2>
+	
+	<div class="entry-author-miyagawa entry-has-title entry-type-post entry" id="entry-6a00d8345206d069e2015392e05326970b">
+					<h3 class="entry-header"><a href="https://bulknews.typepad.com/blog/2011/11/status-of-cpanmetadb.html">Status of cpanmetadb</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p>Google AppEngine went out of beta and changed its pricing model today.</p>
+<p><a href="https://cpanmetadb.appspot.com/" target="_self">cpanmetadb</a>&#0160;the backend database that cpanm uses, is affected by this change. Basically because it heavily uses GAE datastore, it begins to throw OverQuotaErrors this morning.</p>
+<p>I&#39;ve made a change to it to use&#0160;<a href="https://metacpan.org/" target="_self">MetaCPAN API</a>&#0160;instead of data store. It seems to work well for most of the modules, but because MetaCPAN handles modules and scripts a little differently from just parsing PAUSE 02packages file, there are some&#0160;<a href="https://github.com/CPAN-API/cpan-api/issues/143" target="_self">mismatches</a>&#0160;for some queries. Namely, there are some modules that do not return expected results, such as version or warnings returning the perl-5.14.2 as its distribution, etc.</p>
+<p>I dont&#39; have time to fully migrate this over to full ElasticSearch based query, or to have another cpan packages DB running on some other host - so far cpanminus has an option to fallback to search.cpan.org screen scraping, which used to work fine before our switch to cpanmetadb.</p>
+<p>I will keep you posted as I make more updates to stablize everything.</p>
+<p><strong>UPDATE: </strong>Nov 9th 3pm PST: I set up a new instance of cpanmetadb <a href="https://github.com/miyagawa/cpanmetadb-perl" target="_self">using Perl, Tatsumaki and Twiggy</a> and on-memory database (aka perl hash :-)) and run it on <a href="http://cpanmetadb.plackperl.org/" target="_self">my linode instance</a>&#0160;(might take a bit while before DNS update gets propagated), and switched cpanmetadb to redirect all the requests to the instance.</p>
+<p>This seems to be working well for most clients including cpanm.&#0160;If your client doesn&#39;t handle redirections automatically, you might have to change that to follow redirects (like -L option for curl). Let me know if you have any troubles with this switch.</p>
+			</div>
+			
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://bulknews.typepad.com/blog/2011/11/status-of-cpanmetadb.html">Nov 7, 2011 1:51:33 PM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://bulknews.typepad.com/blog/2011/11/status-of-cpanmetadb.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                
+    		    <li><a href="https://bulknews.typepad.com/blog/2011/11/status-of-cpanmetadb.html#comments" class="entry-footer-comment">Comment <span>4</span></a></li>
+                
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8345206d069e2015392e05326970b'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">2011.10.19</h2>
+	
+	<div class="entry-author-miyagawa entry-has-title entry-type-post entry" id="entry-6a00d8345206d069e20154364150be970c">
+					<h3 class="entry-header"><a href="https://bulknews.typepad.com/blog/2011/10/carton-talk.html">Carton talk at YAPC::Asia - video</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p>My Carton talk&#39;s video is up. Slides are in English and the speech is in Japanese. I was doing the demo abou 8:00 and it went really well. When I ship 1.0 i will most definitely do a screencast.</p>
+<p>Another nice thing about YAPC::Asia: the videos are uploaded 4 days after the conference. I still haven&#39;t seen ones from other YAPCs this year.</p>
+<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/s2pVKKK74fE" width="560"></iframe></p>
+			</div>
+			
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://bulknews.typepad.com/blog/2011/10/carton-talk.html">Oct 19, 2011 7:03:37 AM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://bulknews.typepad.com/blog/2011/10/carton-talk.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                
+    		    <li><a href="https://bulknews.typepad.com/blog/2011/10/carton-talk.html#comments" class="entry-footer-comment">Comment <span>2</span></a></li>
+                
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8345206d069e20154364150be970c'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">2011.10.17</h2>
+	
+	<div class="entry-author-miyagawa entry-has-title entry-type-post entry" id="entry-6a00d8345206d069e20154362e779a970c">
+					<h3 class="entry-header"><a href="https://bulknews.typepad.com/blog/2011/10/yapcasia-2011-notes.html">YAPC::Asia 2011 notes</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p>The conference got 672 attendees and I think this is the record breaking biggest YAPC ever.</p>
+<p>There are so many tweets during the conference and the hashtag #yapcasia was Trending on Twitter.</p>
+<p><a href="https://dl.dropbox.com/u/135035/Screenshots/y3v0.png" style="display: inline;"><img alt="image from dl.dropbox.com" border="0" class="asset  asset-image at-xid-6a00d8345206d069e20154362e70f5970c" src="https://bulknews.typepad.com/.a/6a00d8345206d069e20154362e70f5970c-800wi" title="image from dl.dropbox.com" /></a></p>
+<p>There are now <a href="http://app.linknode.net/" target="_self">so many blog posts</a>&#0160;on&#0160;the conference, getting close to 100.&#0160;</p>
+<p>There was no talk focused on PSGI and Plack this year, because it&#39;s got the defacto standard already and no dedicated talks are required. Of course there were lots of mentions to Plack and middleware in the web app development and DevOps talk.</p>
+<p>YAPC::Asia and Japanese perl community has so many awesomeness that the rest of the world needs a while to catch up :)</p>
+<p>The trend in this year&#39;s YAPC::Asia was avoiding NoSQL (There was a nosql speicfic Shibuya.pm meetup last year) and hating ORM, especially the DevOps tracks. YAPC::Asia having lots of DevOps talk makes a lot of sense since many startups and internet giants (Mixi, DeNA, livedoor, Hatena etc.) use Perl as their technology.</p>
+<p>I love the Titech campus and espeically the green grass for a picnic.</p>
+<p><a href="https://www.flickr.com/photos/bulknews/6247738595/" title="P1050330.JPG by miyagawa, on Flickr"><img alt="P1050330.JPG" height="334" src="https://farm7.static.flickr.com/6115/6247738595_7282303a49.jpg" width="500" /></a></p>
+<p>And of course drinking in public like this is completely legal :)</p>
+<p>More photos from <a href="https://www.flickr.com/photos/bulknews/sets/72157627777784347/with/6248158872/" target="_self">my Flickr set</a>.</p>
+			</div>
+			
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://bulknews.typepad.com/blog/2011/10/yapcasia-2011-notes.html">Oct 17, 2011 12:33:33 AM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://bulknews.typepad.com/blog/2011/10/yapcasia-2011-notes.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                
+    		    <li><a href="https://bulknews.typepad.com/blog/2011/10/yapcasia-2011-notes.html#comments" class="entry-footer-comment">Comment <span>1</span></a></li>
+                
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8345206d069e20154362e779a970c'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>1</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">2011.10.14</h2>
+	
+	<div class="entry-author-miyagawa entry-has-title entry-type-post entry" id="entry-6a00d8345206d069e201543621d0f6970c">
+					<h3 class="entry-header"><a href="https://bulknews.typepad.com/blog/2011/10/carton-cpan-dependency-manager.html">Carton CPAN dependency manager</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<script src="https://speakerdeck.com/embed/4e97f8b7711977005400e453.js"></script>
+<p><small>via <a href="https://speakerdeck.com/u/miyagawa/p/carton-cpan-dependency-manager">speakerdeck.com</a></small></p>
+<p>Gave the talk about <a href="https://github.com/miyagawa/carton">Carton</a> at YAPC::Asia 2011. Oh, and I&#39;m trying&#0160;<a href="https://speakerdeck.com/" target="_self">Speaker Deck</a>.</p>
+			</div>
+			
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://bulknews.typepad.com/blog/2011/10/carton-cpan-dependency-manager.html">Oct 14, 2011 4:52:26 PM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://bulknews.typepad.com/blog/2011/10/carton-cpan-dependency-manager.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                
+    		    <li><a href="https://bulknews.typepad.com/blog/2011/10/carton-cpan-dependency-manager.html#comments" class="entry-footer-comment">Comment <span>2</span></a></li>
+                
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8345206d069e201543621d0f6970c'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+			<div class="pager-bottom pager-entries pager content-nav">
+		<div class="pager-inner">
+			
+			
+			<span class="pager-right">
+				<a href="https://bulknews.typepad.com/blog/page/2/"><span class="pager-label"></span>
+					<span class="chevron">&#187;</span></a>
+			</span>
+		</div>
+	</div>
+	
+	
+
+
+
+						</div>
+					</div>
+					<div id="beta">
+						<div id="beta-inner">
+						    
+<div class="module-profilefollowing module">
+	<div class="module-content">
+		<div class="userinfo pkg">
+			<div class="userinfo-userpic">
+				<a href="https://profile.typepad.com/miyagawa"><img src="https://up0.typepad.com/6a00d8345206d069e200e5500f9af38834-50si" alt="" width="50" height="50" class="userpic" /></a>
+			</div>
+			<div class="userinfo-username">
+				<h3><a href="https://profile.typepad.com/miyagawa" style="text-decoration: none;">miyagawa</a></h3>
+				<p></p>
+			</div>
+		</div>
+		<div class="follow-data pkg">
+			<div id="user-following" class="user-following pkg">
+				<div class="user-contacts user-has-contacts">
+					<a rel="me" href="https://profile.typepad.com/miyagawa/contacts" title="View all following" target="_parent"><span id="num-contacts" class="follow-num-size-l">119</span> Following</a>
+				</div>
+			</div>
+			<div class="user-followers">
+				<div class="user-num-contacts">
+					<a rel="me" href="https://profile.typepad.com/miyagawa/followers" title="View all followers" target="_parent"><span id="num-followers" class="follow-num-size-l">536</span> Followers</a>
+				</div>
+			</div>
+			<div class="user-actions">
+				<iframe src="https://www.typepad.com/services/connect/profile_module?user_id=6p00d8345206d069e2&amp;follow_only=1&amp;mb=1&amp;align=center&amp;source_uri=https%3A%2F%2Fbulknews.typepad.com%2Fblog%2F" width="100%" height="30" frameborder="0" scrolling="no" allowtransparency="true" id="follow-button-frame" name="follow-button-frame"></iframe>
+			</div>
+		</div>
+	</div>
+	<div class="module-list pkg">
+		<div class="module-list-item"><a href="https://profile.typepad.com/jeffreine" target="_parent"><img src="https://up4.typepad.com/6a00e551c7a9b488330148c7c91a24970c-50si" alt="jeff reine" title="jeff reine" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/majyu" target="_parent"><img src="https://up2.typepad.com/6a013487749d8a970c0133f4556af7970b-50si" alt="majyu" title="majyu" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/shoga" target="_parent"><img src="https://up3.typepad.com/6a00d8342052e353ef01156fa15882970c-50si" alt="Ginger T" title="Ginger T" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/monkinetic" target="_parent"><img src="https://up3.typepad.com/6a010534988cd3970b0120a61a0eda970c-50si" alt="Steve Ivy" title="Steve Ivy" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/kimmi8ng" target="_parent"><img src="https://up3.typepad.com/6a0120a57dc5bb970c0120a895b4f6970b-50si" alt="Parked @ Kimmie's" title="Parked @ Kimmie's" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/harupiko" target="_parent"><img src="https://up7.typepad.com/6a0105365be66f970b010536d72810970c-50si" alt="Harupiko" title="Harupiko" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/veroniquep" target="_parent"><img src="https://up6.typepad.com/6a00e5508c7bbe883301156f6c8f77970c-50si" alt="Veronique" title="Veronique" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/daiba" target="_parent"><img src="https://static.typepad.com/.shared/default-userpics/17-50si.gif" alt="Daiba" title="Daiba" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/dreamagicjp" target="_parent"><img src="https://up2.typepad.com/6a00e54effe302883401053615dbd2970c-50si" alt="Keiichi Inoue" title="Keiichi Inoue" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/jakcadden" target="_parent"><img src="https://up4.typepad.com/6a012875cc6a74970c012875d1bbbd970c-50si" alt="J" title="J" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/yoshimax" target="_parent"><img src="https://up4.typepad.com/6a00e550015c7c88330120a59cdec5970b-50si" alt="yoshimax" title="yoshimax" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/hachi" target="_parent"><img src="https://up0.typepad.com/6a00d83424729053ef01287649e041970c-50si" alt="hachi" title="hachi" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/lopnor1" target="_parent"><img src="https://static.typepad.com/.shared/default-userpics/19-50si.gif" alt="Lopnor" title="Lopnor" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/tokuhirom1" target="_parent"><img src="https://static.typepad.com/.shared/default-userpics/14-50si.gif" alt="Tokuhirom" title="Tokuhirom" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/mutsumi_s" target="_parent"><img src="https://up0.typepad.com/6a00e398202d9888330120a8149dc4970b-50si" alt="mutsumi" title="mutsumi" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/hakobe1" target="_parent"><img src="https://up1.typepad.com/6a0120a838da89970b0128773c27f5970c-50si" alt="hakobe" title="hakobe" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/yusukebe" target="_parent"><img src="https://up3.typepad.com/6a00e54ed96453883301bb084d1073970d-50si" alt="yusukebe" title="yusukebe" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/cho45" target="_parent"><img src="https://up1.typepad.com/6a00e54ecbaec18833012877485eff970c-50si" alt="cho45" title="cho45" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/onishi" target="_parent"><img src="https://up2.typepad.com/6a0128773c31ea970c0128773c4ff6970c-50si" alt="onishi" title="onishi" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/motemen" target="_parent"><img src="https://up7.typepad.com/6a0120a838f647970b0120a83900fe970b-50si" alt="motemen" title="motemen" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/hotchpotch505" target="_parent"><img src="https://up3.typepad.com/6a0120a838f373970b0128773ca438970c-50si" alt="Yuichi Tateno" title="Yuichi Tateno" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/junyakondo" target="_parent"><img src="https://static.typepad.com/.shared/default-userpics/12-50si.gif" alt="Junya Kondo" title="Junya Kondo" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/andywibbels" target="_parent"><img src="https://up5.typepad.com/6a00d8354f1fb569e201a73d8ca584970d-50si" alt="Andy" title="Andy" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/stevecalderon" target="_parent"><img src="https://up2.typepad.com/6a00d8344ba3ea53ef0120a6ac2e6a970b-50si" alt="Steve Calderon" title="Steve Calderon" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/defunktion" target="_parent"><img src="https://static.typepad.com/.shared/default-userpics/02-50si.gif" alt="defunkt" title="defunkt" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/nobuo" target="_parent"><img src="https://static.typepad.com/.shared/default-userpics/01-50si.gif" alt="Nobuo Danjou" title="Nobuo Danjou" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/mayumine" target="_parent"><img src="https://up0.typepad.com/6a0120a5901af8970c0134819a9c48970c-50si" alt="mayumine" title="mayumine" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/jessevincent" target="_parent"><img src="https://static.typepad.com/.shared/default-userpics/08-50si.gif" alt="Jesse" title="Jesse" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/kazuhooku" target="_parent"><img src="https://up4.typepad.com/6a00e54ede8e84883300e55019764d8834-50si" alt="kazuho" title="kazuho" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/ant0ine" target="_parent"><img src="https://up3.typepad.com/6a01156f689ba3970c01a5117766df970c-50si" alt="Antoine" title="Antoine" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/hajimekoga" target="_parent"><img src="https://up1.typepad.com/6a00e54f0cb861883400e550008c2b8833-50si" alt="hajimekoga" title="hajimekoga" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/jamison" target="_parent"><img src="https://up7.typepad.com/6a00e009940e5f883301157063bfc9970b-50si" alt="Jamison Wieser" title="Jamison Wieser" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/laura517" target="_parent"><img src="https://up3.typepad.com/6a00e008d969238834016305c67930970d-50si" alt="Laura" title="Laura" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/ayak000" target="_parent"><img src="https://up1.typepad.com/6a011570236671970c01157026cb1f970c-50si" alt="Ya-ko" title="Ya-ko" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/nataliepo" target="_parent"><img src="https://up3.typepad.com/6a00e5539faa3b88330120a614d07f970c-50si" alt="nataliepo" title="nataliepo" class="userpic" /></a></div>
+		<div class="module-list-item"><a href="https://profile.typepad.com/typepadeverything" target="_parent"><img src="https://up3.typepad.com/6a00d83451c82369e20168ebba2aa0970c-50si" alt="The Typepad Team" title="The Typepad Team" class="userpic" /></a></div>
+	</div>
+</div><div class="module-search module">
+    <h2 class="module-header">Search</h2>
+    <div class="module-content">
+        <form id="search-blog" method="get" action="https://bulknews.typepad.com/.services/blog/6a00d8345206d069e200d8341cb54a53ef/search" class="form-search form-inline" role="search">
+
+            <input type="search" name="filter.q" results="5" value="" />
+            <input type="submit" value="Search" />
+            
+        </form>
+    </div>
+</div>
+<!-- END Blog Search Module -->
+
+<!-- Facebook Like Module -->
+<div class="module-facebook-like module">
+    <h2 class="module-header">Become a Fan</h2>
+    <div class="module-content" id="facebook-like-container">
+        <script>
+        ( function() {
+            var container = document.getElementById( 'facebook-like-container' );
+            if ( container ) {
+    /* new like
+                var e = document.createElement( 'div' );
+                e.setAttribute( 'class', 'fb-like' );
+                e.setAttribute( 'data-href', 'https://bulknews.typepad.com/blog/' );
+                e.setAttribute( 'data-layout', container.offsetWidth < 225 ? 'button_count' : 'standard' );
+                e.setAttribute( 'data-width', container.offsetWidth );
+                e.setAttribute( 'data-share', 'false' );
+                e.setAttribute( 'data-colorscheme', 'dark' );
+                container.appendChild( e );  
+     */
+                var e = document.createElement( 'fb:like' );
+                e.setAttribute( 'href', 'https://bulknews.typepad.com/blog/' );
+                e.setAttribute( 'layout', container.offsetWidth < 225 ? 'button_count' : 'standard' );
+                // FB.XFBML.Element._getPxAttribute dies with an error in IE
+                // if the value of "width" is set to an integer, not a string.
+                e.setAttribute( 'width', container.offsetWidth + 'px' );
+                e.setAttribute( 'colorscheme', 'dark' );
+                container.appendChild( e );
+            }
+        } )();
+        </script>
+    </div>
+</div>
+<!-- END Facebook Like Module -->
+
+<div class="module-elsewhere module">
+	<h2 class="module-header">My Other Accounts</h2>
+	<div class="module-content">
+		<ul class="module-list">
+			<li class="module-list-item">
+				<a href="https://www.facebook.com/app_scoped_user_id/608324210" class="elsewhere-icon"><img src="https://static.typepad.com/.shared/images/profile/service_icons/facebook.png" alt="Facebook" width="16" height="16" /></a>
+				<a href="https://www.facebook.com/app_scoped_user_id/608324210" rel="me" class="elsewhere-servicename"><span class="elsewhere-servicename-service">Facebook</span><span class="separator"> | </span><span class="elsewhere-servicename-account">miyagawa</a>
+			</li>
+			<li class="module-list-item">
+				<a href="https://twitter.com/miyagawa" class="elsewhere-icon"><img src="https://static.typepad.com/.shared/images/profile/service_icons/twitter.png" alt="Twitter" width="16" height="16" /></a>
+				<a href="https://twitter.com/miyagawa" rel="me" class="elsewhere-servicename"><span class="elsewhere-servicename-service">Twitter</span><span class="separator"> | </span><span class="elsewhere-servicename-account">miyagawa</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="module-recent-comments-mb module">
+	<h2 class="module-header">Recent Comments</h2>
+	<div class="module-content">
+		<ul class="module-list">
+			<li class="module-list-item pkg">
+            	<div class="comment-avatar">
+            		<img id="comment-6a00d8345206d069e20162fdb42105970d-avatarimg" src="https://static.typepad.com/.shared/default-userpics/17-50si.gif" alt="Becky" width="32" height="32" />
+            	</div>	
+            	<div class="comment-content">
+    				<div class="comment-content-excerpt"><strong>Becky:</strong> Good day and welcome to check: http://www.joyfa... <span class="separator">|</span> <a href="https://bulknews.typepad.com/blog/2011/11/one-blog.html?cid=6a00d8345206d069e20162fdb42105970d#comment-6a00d8345206d069e20162fdb42105970d">more »</a></div>
+    				<div class="comment-content-info">On <a href="https://bulknews.typepad.com/blog/2011/11/one-blog.html">One Blog.</a></div> 
+    	        </div>
+			</li>
+			<li class="module-list-item pkg">
+            	<div class="comment-avatar">
+            		<img id="comment-6a00d8345206d069e2015393e42226970b-avatarimg" src="https://static.typepad.com/.shared/default-userpics/02-50si.gif" alt="Mithaldu" width="32" height="32" at:flyout-userxid="6p014e896d7c36970d" at:flyout-enabled="yes" />
+            	</div>	
+            	<div class="comment-content">
+    				<div class="comment-content-excerpt"><strong>Mithaldu:</strong> Yeah, now it works.... <span class="separator">|</span> <a href="https://bulknews.typepad.com/blog/2011/11/one-blog.html?cid=6a00d8345206d069e2015393e42226970b#comment-6a00d8345206d069e2015393e42226970b">more »</a></div>
+    				<div class="comment-content-info">On <a href="https://bulknews.typepad.com/blog/2011/11/one-blog.html">One Blog.</a></div> 
+    	        </div>
+			</li>
+			<li class="module-list-item last pkg">
+            	<div class="comment-avatar">
+            		<img id="comment-6a00d8345206d069e20162fd388c54970d-avatarimg" src="https://up0.typepad.com/6a00d8345206d069e200e5500f9af38834-50si" alt="miyagawa" width="32" height="32" at:flyout-userxid="6p00d8345206d069e2" at:flyout-enabled="yes" />
+            	</div>	
+            	<div class="comment-content">
+    				<div class="comment-content-excerpt"><strong>miyagawa:</strong> I believe theres a bug in Feedburner - Tumblr c... <span class="separator">|</span> <a href="https://bulknews.typepad.com/blog/2011/11/one-blog.html?cid=6a00d8345206d069e20162fd388c54970d#comment-6a00d8345206d069e20162fd388c54970d">more »</a></div>
+    				<div class="comment-content-info">On <a href="https://bulknews.typepad.com/blog/2011/11/one-blog.html">One Blog.</a></div> 
+    	        </div>
+			</li>
+		</ul>
+	</div>
+</div>
+
+						    
+<!-- sidebar -->
+
+
+
+<!-- about page link -->
+<div class="module-about module">
+	<h2 class="module-header"><a
+		href="https://bulknews.typepad.com/about.html">About</a></h2>
+</div>
+<!-- user photo -->
+    <div class="module-photo module">
+
+
+     
+
+
+<div class="module-content">
+
+
+<img src="https://bulknews.typepad.com/.a/6a00d8345206d069e200e5500f9af38834-150wi" alt="My Photo" class="img-responsive" />
+
+
+</div></div>
+
+	<div class="module-archives module">
+		<h2 class="module-header">Recent Posts</h2>
+		<div class="module-content">
+			<ul class="module-list">
+				
+									<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/11/one-blog.html">One Blog.</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/11/my-new-japanese-blog-weblogbulknewsnet.html">My new Japanese blog (weblog.bulknews.net)</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/11/read-later-apps-on-kindle.html">Read Later apps on Kindle</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/11/kindle-touch.html">Kindle Touch</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/11/cpan-dependencies-are-more-fun-to-manage-than-ever.html">CPAN dependencies are more fun to manage than ever</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/11/kindle-fire-review.html">Kindle Fire Review</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/11/status-of-cpanmetadb.html">Status of cpanmetadb</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/10/carton-talk.html">Carton talk at YAPC::Asia - video</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/10/yapcasia-2011-notes.html">YAPC::Asia 2011 notes</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/10/carton-cpan-dependency-manager.html">Carton CPAN dependency manager</a></li>
+					
+				
+			</ul>
+		</div>
+	</div>
+<!-- archives -->
+
+	<div class="module-archives module">
+		<h2 class="module-header"><a href="https://bulknews.typepad.com/blog/archives.html">Archives</a></h2>
+		<div class="module-content">
+			<ul class="module-list">
+				
+					
+					<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/11/index.html">November 2011</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/10/index.html">October 2011</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/09/index.html">September 2011</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/08/index.html">August 2011</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/04/index.html">April 2011</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/03/index.html">March 2011</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2011/02/index.html">February 2011</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2010/12/index.html">December 2010</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2010/11/index.html">November 2010</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://bulknews.typepad.com/blog/2010/10/index.html">October 2010</a></li>
+				
+			</ul>
+		</div>
+	</div>
+
+<div class="module-feed module">
+	<h2 class="module-header">del.icio.us/miyagawa</h2>
+	<div class="module-content" id="feed-ca305d321e4ad7f6591815f322a42df0287c096a">
+		<script type="text/javascript" defer="defer" src="https://bulknews.typepad.com/.services/content?src=Feed:http%3A%2F%2Fdel.icio.us%2Frss%2Fmiyagawa,10"></script>
+	</div>
+</div>
+<!-- list_inlcude.tt  -->
+<div id="flickr" class="module-typelist module">
+<h2 class="module-header">Flickr</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note-label"><!-- Flickr --></div><div class="typelist-note"><!-- Start of Flickr Badge -->
+<style type="text/css">
+#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
+#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
+#flickr_icon_td {padding:0 5px 0 0 !important;}
+.flickr_badge_image {text-align:center !important;}
+.flickr_badge_image img {border: 1px solid black !important;}
+#flickr_www {display:block; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
+#flickr_badge_wrapper {background-color:#ffffff;border: solid 1px #000000}
+#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
+</style>
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td><a href="https://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=5&display=latest&size=t&layout=v&source=user&user=49503048699%40N01"></script>
+</table>
+</td></tr></table>
+<!-- End of Flickr Badge -->
+</div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<div class="module-feed module">
+	<h2 class="module-header">My Last FM</h2>
+	<div class="module-content" id="feed-723f0a4a3906e9305bba5db0af9e2b858398f715">
+		<script type="text/javascript" defer="defer" src="https://bulknews.typepad.com/.services/content?src=Feed:http%3A%2F%2Fws.audioscrobbler.com%2Frss%2Frecent.php%3Fuser%3Dmiyagawa,10"></script>
+	</div>
+</div>
+<!-- list_inlcude.tt  -->
+<div id="me_on_the_web" class="module-typelist module">
+<h2 class="module-header">Me on the Web</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="My main blog to discuss many things, in Japanese." href="http://blog.bulknews.net/mt/" >blog.bulknews.net</a></li>
+							<li class="module-list-item"><a title="List of books and articles on magazines." href="http://blog.bulknews.net/pubs" >Publications List</a></li>
+							<li class="module-list-item"><a title="Random pics taken with my digital camera and cameraphone." href="https://www.flickr.com/photos/bulknews/">Flickr: Photos from miyagawa</a></li>
+							<li class="module-list-item"><a title="Log of various links that I have interest with, but not enough to blog on." href="http://del.icio.us/miyagawa" >del.icio.us linklog</a></li>
+							<li class="module-list-item"><a title="What I'm listening to. Mostly electro and punk stuff." href="https://www.last.fm/user/miyagawa">miyagawa @ Last.FM</a></li>
+							<li class="module-list-item"><a title="Perl modules that I wrote and contributed as an open source software." href="http://search.cpan.org/~miyagawa/" >CPAN Modules</a></li>
+							<li class="module-list-item"><a title="" href="https://bulknews.typepad.com/blog/">bulknews.typepad.com</a></li>
+							<li class="module-list-item"><a title="" href="http://bulknews.vox.com/" >My Vox blog</a></li>
+							<li class="module-list-item"><a title="" href="https://twitter.com/miyagawa">Twitter @miyagawa</a></li>
+							<li class="module-list-item"><a title="" href="http://friendfeed.com/miyagawa" >Tatsuhiko Miyagawa - FriendFeed</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<div class="module-syndicate module">
+	<div class="module-content">
+	<a href="https://bulknews.typepad.com/blog/atom.xml"><i class="fas fa-rss"></i> Subscribe to this blog's feed</a>
+	</div>
+</div>
+<!-- powered by -->
+<div class="module-powered module">
+        <div class="module-content">
+
+                <a href="https://www.typepad.com/" title="Blog">Blog</a> powered by <a href="https://www.typepad.com/" title="TypePad">Typepad</a>
+
+        </div>
+</div>
+<div class="module-widget module" id="widget-MyBlogLog_MyBlogLog_Tracking_Script">
+	<div class="module-content">
+    	<script type='text/javascript' src="https://track.mybloglog.com/js/jsserv.php?mblID=2005030709374275" defer='defer'></script>
+	</div>
+</div>
+
+
+
+
+						</div>
+					</div>
+				</div>
+			</div>			
+		</div>
+		</div>
+	</div>
+	<div id="footer">
+	<div id="footer-inner">
+		<ul>
+			<li class="footer-link-syndicate"><a href="https://bulknews.typepad.com/blog/atom.xml">Subscribe to this blog's feed</a></li>
+			<li class="footer-link-poweredby"><a href="http://www.typepad.com/">Powered by Typepad</a></li>
+		</ul>
+	</div>
+</div>
+
+	
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=11218&amp;user_id=7599&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-52226-6', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+<!-- ph=1 -->
